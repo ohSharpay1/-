@@ -5,7 +5,7 @@ var config = {
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "心爱的小可爱",  // 同上...
-        "今天是你的生日",
+        "今天是你的生日",/imgs/
         "这是我陪宝贝度过的",
         "第一个生日哦",
         "也是我们在一起的第58天【爱你！】"
@@ -31,7 +31,7 @@ var config = {
     desc: {
         turn_on: "点我!点我！",
         play: "来点音乐",
-        bannar_coming: "再来点颜色",
+        bannar_coming: "再来点color",
         balloons_flying: "好像少了点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
